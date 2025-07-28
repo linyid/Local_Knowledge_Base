@@ -1,0 +1,9 @@
+{
+    "include_dirs": [
+      "C:\\Etienne\\documents"
+    ],
+    "exclude_patterns": [
+      ".git", "node_modules", "__pycache__"
+    ],
+    "file_types": [".pdf", ".txt", ".docx"]
+  }
