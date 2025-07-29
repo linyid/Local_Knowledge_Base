@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environments
+.kb_venv/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Build
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
