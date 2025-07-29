@@ -1,0 +1,1 @@
+from .crawler import crawl_directories as load_documents
